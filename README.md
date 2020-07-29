@@ -8,6 +8,6 @@ Skills: C++ / PHP / Python / JavaScript
 - 🔭 I’m currently working on Emberfuse PHP
 - 🌱 I’m currently learning Python & C++
 - 📫 How to reach me: tjthavarshan@gmail.com
-- 👋 Come say "Hi!": (https://thavarshan.com)[https://thavarshan.com]
+- 👋 Come say "Hi!": [https://thavarshan.com](https://thavarshan.com)
 
 ![Profile views](https://gpvc.arturio.dev/thavarshan)
